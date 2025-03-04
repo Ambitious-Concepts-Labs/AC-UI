@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@netlify/next": "^1.4.9",
     "docx": "^9.2.0",
     "jspdf": "^3.0.0",
     "jspdf-autotable": "^5.0.2",
